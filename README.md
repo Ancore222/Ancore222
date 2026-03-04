@@ -27,15 +27,8 @@
   <img src="76c0a814cf966cc2c5093ed8064ac505.gif" width="65%" />
 </p>
 
----
 
-### 📊 Статистика профиля
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ancore222&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=bbbbbb&text_color=999999&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancore222&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=999999&bg_color=0d1117" width="48%" />
-</p>
 
----
 
 ### 🛠 Стек инструментов
 <table align="center" border="0">
