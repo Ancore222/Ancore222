@@ -1,52 +1,47 @@
-<h1 align="center">虚空へようこそ — Добро пожаловать в пустоту, Ancore222 🌌</h1>
+<p align="center">
+  <img src="[attachment_0](attachment)" width="100%" />
+</p>
+
+<h1 align="center">ANCORE222 // SYSTEM TERMINAL</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Ancore222&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=60&section=header&text=USER_AUTHORIZED&fontSize=30&fontColor=7aa2f7" />
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Online-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vibe-Japanese%20Aesthetics-black?style=flat-square&logo=tokyo-metro" />
-  <img src="https://img.shields.io/badge/Focus-Customization-blueviolet?style=flat-square" />
+  <code><b>STATUS:</b> ONLINE</code> | 
+  <code><b>LEVEL:</b> GITHUB_EXPLORER</code> | 
+  <code><b>MOOD:</b> ANIME_VIBES</code>
 </div>
 
 ---
 
-### 🏮 プロフィール (О профиле)
-Здесь нет лишнего шума. Только чистота кода и стремление к идеальной эстетике. 
+### 📡 System Overview
+Добро пожаловать в мой цифровой узел. Здесь я настраиваю свою среду и экспериментирую со структурой данных. Никакой лишней информации — только эстетика и функциональность.
 
-* **⚡ Моя активность:** Я исследую возможности GitHub и настраиваю своё цифровое пространство.
-* **🌙 Философия:** *«Wabi-sabi»* (侘寂) — нахождение красоты в несовершенстве и мимолетности.
-* **🌱 В процессе:** Постоянный поиск новых идей для оформления и структурирования проектов.
-
----
-
-### ⛩️ 興味と趣味 (Интересы)
-| Категория | Описание |
-| :--- | :--- |
-| **Технологии** | Кастомизация интерфейсов, автоматизация, изучение GitHub. |
-| **Эстетика** | Минимализм, японская культура, ночные пейзажи Токио. |
-| **Развитие** | Создание удобных и красивых репозиториев. |
+- **Current focus:** UI Customization
+- **Style:** Tech Minimalist / Anime Aesthetic
+- **Mission:** Continuous optimization
 
 ---
 
-### 📈 統計 (Развернутая статистика)
-
+### 📊 Intelligence Report
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ancore222&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancore222&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ancore222&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ancore222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=16161e&title_color=7aa2f7&text_color=9aa5ce" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancore222&layout=compact&theme=tokyonight&hide_border=true&bg_color=16161e&title_color=7aa2f7&text_color=9aa5ce" width="48%" />
 </p>
 
 ---
 
-### 🌊 魂の言葉 (Цитата дня)
-> *"Семь раз упади, восемь раз поднимись."* (七転び八起き)
+### 🛠 Tools & Environment
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
 
 <p align="right">
-  <i>Powered by Ancore222's Imagination 💫</i>
+  <code>// SESSION_TERMINATED [2026]</code>
 </p>
-
