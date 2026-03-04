@@ -2,59 +2,51 @@
   <img src="40c07c7de4a1550ba535e8349f12f8c2.gif" width="100%" />
 </p>
 
-<h1 align="center">Ancore222 // Workspace</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=707070&height=60&section=header&text=Welcome_to_my_profile&fontSize=25&fontColor=ffffff" />
-</p>
+---
 
 <div align="center">
-  <code><b>USER:</b> Ancore222</code> | 
-  <code><b>STATUS:</b> DISCOVERING</code> | 
-  <code><b>THEME:</b> NEUTRAL_MINIMALISM</code>
+  <h1>👋 Привет, я Ancore222</h1>
+  <p><i>Исследователь цифровых интерфейсов и любитель эстетики</i></p>
 </div>
 
----
-
-### ☁️ Обо мне / About Me
-Добро пожаловать. Это мой личный уголок на GitHub, где я собираю интересные решения и настраиваю свое рабочее пространство.
-
-* **Интересы:** Изучение структуры проектов и визуальное оформление данных.
-* **Стиль:** Минимализм и функциональность.
-* **В планах:** Развитие репозиториев и освоение новых инструментов.
-
 <p align="center">
-  <img src="76c0a814cf966cc2c5093ed8064ac505.gif" width="65%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Personal_Archive&fontSize=35" />
 </p>
 
----
-
-### 📊 Статистика профиля
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ancore222&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=bbbbbb&text_color=999999&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancore222&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=999999&bg_color=0d1117" width="48%" />
-</p>
-
----
-
-### 🛠 Стек инструментов
-<table align="center" border="0">
+### 🛠 Моя конфигурация
+<table align="center">
   <tr>
-    <td width="60%">
+    <td width="50%">
+      <b>Основные направления:</b>
       <ul>
-        <li><b>Git / GitHub</b> — управление проектами.</li>
-        <li><b>Markdown</b> — оформление документации.</li>
-        <li><b>Customization</b> — работа над стилем интерфейса.</li>
+        <li>Оформление GitHub профилей</li>
+        <li>Работа с Markdown структурами</li>
+        <li>Поиск идеального визуального стиля</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="1364f301d7181e2acc516f702c4ce274.gif" width="120px" style="border-radius: 10px;" />
+    <td width="50%" align="center">
+      <img src="ec79b8fe34c94630c9bb302f5e32c68f.gif" width="200px" style="border-radius: 15px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-<p align="right">
-  <code>Session Active. 2026</code>
+### 📈 Аналитика активности
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ancore222&show_icons=true&theme=transparent&title_color=000000&icon_color=555555&text_color=333333" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancore222&layout=compact&theme=transparent&title_color=000000&text_color=333333" width="48%" />
+</p>
+
+---
+
+### 📮 Connect with me
+I will drill the heavens
+
+<p align="center">
+  <img src="deff69add6002d0e48cb6af013c2c95.jpg" width="100%" style="border-radius: 10px;" />
+</p>
+
+<p align="center">
+  <code>Updated: 2026 // Built with passion</code>
 </p>
