@@ -2,51 +2,44 @@
   <img src="40c07c7de4a1550ba535e8349f12f8c2.gif" width="100%" />
 </p>
 
----
-
-<div align="center">
-  <h1>👋 Привет, я Ancore222</h1>
-  <p><i>Исследователь цифровых интерфейсов и любитель эстетики</i></p>
-</div>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Personal_Archive&fontSize=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=ANCORE222;CHAPTER+1:+THE+BEGINNING;READING+IN+PROGRESS..." alt="Typing SVG" />
 </p>
 
-### 🛠 Моя конфигурация
-<table align="center">
+---
+
+### 📖 STORY ARC // ОБО МНЕ
+<table align="center" border="0">
   <tr>
-    <td width="50%">
-      <b>Основные направления:</b>
-      <ul>
-        <li>Оформление GitHub профилей</li>
-        <li>Работа с Markdown структурами</li>
-        <li>Поиск идеального визуального стиля</li>
-      </ul>
+    <td width="65%">
+      <p><b>Name:</b> Ancore222</p>
+      <p><b>Role:</b> Digital Observer</p>
+      <p><i>"В мире, наполненном шумом, я ищу тишину идеального кода и чистой эстетики. Каждая строчка — это новый штрих в моей истории."</i></p>
     </td>
-    <td width="50%" align="center">
-      <img src="ec79b8fe34c94630c9bb302f5e32c68f.gif" width="200px" style="border-radius: 15px;" />
+    <td width="35%" align="center">
+      <img src="ec79b8fe34c94630c9bb302f5e32c68f.gif" width="180px" style="border: 2px solid #000; border-radius: 5px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Аналитика активности
+### ⚡ POWER LEVEL // СТАТИСТИКА
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ancore222&show_icons=true&theme=transparent&title_color=000000&icon_color=555555&text_color=333333" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancore222&layout=compact&theme=transparent&title_color=000000&text_color=333333" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ancore222&show_icons=true&theme=contrast&hide_border=false&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancore222&layout=compact&theme=contrast&hide_border=false&title_color=000000&text_color=000000&bg_color=ffffff" width="48%" />
 </p>
 
 ---
 
-### 📮 Connect with me
-I will drill the heavens
-
-<p align="center">
-  <img src="deff69add6002d0e48cb6af013c2c95.jpg" width="100%" style="border-radius: 10px;" />
+### 🛠 ARTIFACTS // ИНСТРУМЕНТЫ
+<p align="left">
+  <code><b>GIT:</b> MASTERED</code> <br>
+  <code><b>MARKDOWN:</b> INK_STYLE</code> <br>
+  <code><b>DESIGN:</b> MINIMALISM</code>
 </p>
 
 <p align="center">
-  <code>Updated: 2026 // Built with passion</code>
-</p>
+  <br>
+  <img src="deff69add6002d0e48cb6af
+  
