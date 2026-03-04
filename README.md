@@ -2,7 +2,7 @@
   <img src="40c07c7de4a1550ba535e8349f12f8c2.gif" width="100%" />
 </p>
 
-<h1 align="center">Ancore // It's me:з</h1>
+<h1 align="center">Ancore</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=707070&height=60&section=header&text=Welcome_to_my_profile&fontSize=25&fontColor=ffffff" />
@@ -16,7 +16,7 @@
 
 ---
 
-### ☁️ Обо мне / About Me
+### ★About Me★
 Добро пожаловать. Это мой личный уголок на GitHub, где я собираю интересные решения и настраиваю свое рабочее пространство.
 
 * **Интересы:** Изучение структуры проектов и визуальное оформление данных.
