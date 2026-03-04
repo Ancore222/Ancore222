@@ -1,56 +1,54 @@
 <p align="center">
-  <img src="e73959261f323ff47b86ca58b5ae92ed.gif" width="100%" />
+  <img src="40c07c7de4a1550ba535e8349f12f8c2.gif" width="100%" />
 </p>
 
-<h1 align="center">🧬 ANCORE222 // PROTOCOL: THE_WIRED</h1>
+<h1 align="center">Ancore222 // Workspace</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=60&section=header&text=PRESENT_DAY_PRESENT_TIME&fontSize=25&fontColor=7aa2f7&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=707070&height=60&section=header&text=Welcome_to_my_profile&fontSize=25&fontColor=ffffff" />
 </p>
 
 <div align="center">
-  <code><b>NODE:</b> 222</code> | 
-  <code><b>STATUS:</b> SYNCHRONIZED</code> | 
-  <code><b>CONNECTION:</b> ALIVE</code>
+  <code><b>USER:</b> Ancore222</code> | 
+  <code><b>STATUS:</b> DISCOVERING</code> | 
+  <code><b>THEME:</b> NEUTRAL_MINIMALISM</code>
 </div>
 
 ---
 
-### 🌐 System Core / О системе
-> *«Нет смысла оставаться в реальности, если всё вокруг — лишь поток данных».*
+### ☁️ Обо мне / About Me
+Добро пожаловать. Это мой личный уголок на GitHub, где я собираю интересные решения и настраиваю свое рабочее пространство.
 
-Я настраиваю этот узел для интеграции в Сеть. Мой профиль — это терминал, где визуальная эстетика важнее слов.
-
-- **[⚓] Локация:** Сеть (The Wired)
-- **[📡] Сигнал:** 100% Encryption
-- **[🧩] Объект:** Ancore222
+* **Интересы:** Изучение структуры проектов и визуальное оформление данных.
+* **Стиль:** Минимализм и функциональность.
+* **В планах:** Развитие репозиториев и освоение новых инструментов.
 
 <p align="center">
-  <img src="dd3a641b3ce3d53bbe0ad67a6e566674.gif" width="60%" />
+  <img src="76c0a814cf966cc2c5093ed8064ac505.gif" width="65%" />
 </p>
 
 ---
 
-### 📊 Intelligence Analytics / Аналитика
+### 📊 Статистика профиля
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ancore222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=16161e&title_color=7aa2f7&text_color=9aa5ce" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancore222&layout=compact&theme=tokyonight&hide_border=true&bg_color=16161e&title_color=7aa2f7&text_color=9aa5ce" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ancore222&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=bbbbbb&text_color=999999&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancore222&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=999999&bg_color=0d1117" width="48%" />
 </p>
 
 ---
 
-### 🌙 Connection Log / Лог системы
-<table align="center">
+### 🛠 Стек инструментов
+<table align="center" border="0">
   <tr>
-    <td width="50%">
-      <code>[SUCCESS] Protocol_v2 loaded</code><br>
-      <code>[SUCCESS] Visual_Sync complete</code><br>
-      <code>[SUCCESS] Linked to Wired</code><br>
-      <br>
-      <code><b>// СЕАНС ЗАВЕРШЕН. [2026]</b></code>
+    <td width="60%">
+      <ul>
+        <li><b>Git / GitHub</b> — управление проектами.</li>
+        <li><b>Markdown</b> — оформление документации.</li>
+        <li><b>Customization</b> — работа над стилем интерфейса.</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
-      <img src="41b76eb9f11511cbf3af8c5cc7ce8507.gif" width="150px" />
+    <td width="40%" align="center">
+      <img src="1364f301d7181e2acc516f702c4ce274.gif" width="120px" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -58,7 +56,5 @@
 ---
 
 <p align="right">
-  <img src="https://img.shields.io/badge/Lain-Active-blueviolet?style=flat-square&logo=visual-studio-code" />
+  <code>Session Active. 2026</code>
 </p>
-
-
