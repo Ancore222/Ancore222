@@ -1,18 +1,27 @@
 <p align="center">
-  <img src="banner.jpg" width="100%" />
+  <img src="e73959261f323ff47b86ca58b5ae92ed.gif" width="100%" />
 </p>
 
-<h1 align="center">ANCORE222 // SYSTEM TERMINAL</h1>
+<h1 align="center">ANCORE222 // WIRED_CONNECTION</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=60&section=header&text=USER_AUTHORIZED&fontSize=30&fontColor=7aa2f7" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=60&section=header&text=PRESENT_DAY_PRESENT_TIME&fontSize=25&fontColor=7aa2f7" />
 </p>
 
 <div align="center">
-  <code><b>STATUS:</b> ONLINE</code> | 
-  <code><b>LEVEL:</b> GITHUB_EXPLORER</code> | 
-  <code><b>MOOD:</b> ANIME_VIBES</code>
+  <code><b>STATUS:</b> LINKED</code> | 
+  <code><b>NODE:</b> 222</code> | 
+  <code><b>PROTOCOL:</b> LAIN_OS</code>
 </div>
+
+---
+
+### 📡 System Overview
+Система активна. Исследую границы цифрового пространства и кастомизирую среду под свои нужды.
+
+- **Current focus:** Interface Synthesis
+- **Environment:** The Wired
+- **Objective:** Digital Evolution
 
 ---
 
@@ -24,7 +33,16 @@
 
 ---
 
+### 🛠 Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/TERMINAL-000000?style=for-the-badge&logo=gnumeterminal&logoColor=white" />
+</p>
+
+---
+
 <p align="right">
-  <code>// SESSION_TERMINATED [2026]</code>
+  <code>No matter where you are, everyone is always connected. [2026]</code>
 </p>
 
